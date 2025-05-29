@@ -12,7 +12,7 @@ Process-level information such as arguments and environment variables are common
 - Deno: `Deno.args`<sup>2</sup>, `Deno.env`<sup>4</sup>
 - Bun: `Bun.argv`<sup>1</sup>, `Bun.env`<sup>3</sup>
 
-<sup>(0: Bare arguments including binary path and script path, excluding options consumed. 2: Arguments excluding runtime args. 3: Bare object. 4: Map-like object)</sup>
+<sup>(1: Bare arguments including binary path and script path, excluding options consumed. 2: Arguments excluding runtime args. 3: Bare object. 4: Map-like object)</sup>
 
 ### Arguments
 
